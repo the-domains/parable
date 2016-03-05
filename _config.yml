@@ -1,7 +1,7 @@
 name: PARABLE
 favicon: null
-layout_spectrum: 0.17355704540386796
-typography_spectrum: 0.4354620634112507
+layout_spectrum: 1
+typography_spectrum: 0.64941
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.12349826819263399
-  lightness: 0.6428657479118556
-  saturation: 0.8833348064217716
-  rhythmicContrast: 0.292063576169312
+    - '#bcbcbc'
+    - '#1f1f1f'
+    - '#959595'
+    - '#373737'
+    - '#6c6c6c'
+  brandStrength: 0.8125
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
